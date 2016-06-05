@@ -1,7 +1,7 @@
 let assert = require('chai').assert;
-let Match = require('../lib/match');
-let Player = require('../lib/player');
-let Board = require('../lib/board');
+let Match = require('../../server/game/match');
+let Player = require('../../server/game/player');
+let Board = require('../../server/game/board');
 
 describe('Match', function () {
   describe('boards', function () {

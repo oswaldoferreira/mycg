@@ -1,6 +1,6 @@
-let Player = require('../lib/player');
-let Card = require('../lib/card');
-let DB = require('../db.js');
+let Player = require('./player');
+let Card = require('./card');
+let DB = require('../../db.js');
 
 let _ = require('underscore');
 

@@ -1,6 +1,6 @@
 let assert = require('chai').assert;
-let Card = require('../lib/card');
-let Player = require('../lib/player');
+let Card = require('../../server/game/card');
+let Player = require('../../server/game/player');
 
 describe('Card', function () {
   describe('attributes', function () {
