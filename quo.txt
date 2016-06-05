@@ -1,0 +1,9 @@
+DONE
+
+- Card and player basic instances
+
+TODO
+
+- Create a card "database" on a json file
+- Create a match - 1 board for each player and random card instances on each board
+- A button on the screen must start a match and present the cards of each player on the screen
