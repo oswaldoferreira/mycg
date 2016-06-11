@@ -1,9 +1,13 @@
 DONE
 
 - Card and player basic instances
+- Create a card "database" on a json file
+- Create a match - 1 board for each player and random card instances on each board
 
 TODO
 
-- Create a card "database" on a json file
-- Create a match - 1 board for each player and random card instances on each board
+- Create front-end build with webpack (with babel)
 - A button on the screen must start a match and present the cards of each player on the screen
+- Make a card on the table attack another card
+- Make a card on the table attack the enemy health
+- Enable a player to put a card from the hand to the board
